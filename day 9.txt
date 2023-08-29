@@ -1,0 +1,14 @@
+1 px=1/96th inch
+em = 16px(parent)
+rem(root)
+
+px=absolute value
+em,rem=Relative
+
+<HTML>= root
+<body> = 
+<div>= parent
+<p>=child
+
+ctrl+shift+I = to view program in preview
+Block level takes whole part whereas inline takes upto the content
